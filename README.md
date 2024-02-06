@@ -6,3 +6,4 @@ It was run on xampp server.
 To run this, copy all these files in the same folder in the database management server you use, here we used xampp server, so in the xampp server folder, and start with the **index.html** file.
 
 _I was a teenage novice when I created this. I had no sense of proper organization of files into folders and all that stuff, hence everything in one place. Please don't mind._
+_Of course I could've re-organized everything to match a proper project structure, but I prefer to keep it this way._
